@@ -1,0 +1,12 @@
+C:\Projects\Match3\Match3Engine\Match3Engine\bin\Debug\Match3Engine.dll
+C:\Projects\Match3\Match3Engine\Match3Engine\bin\Debug\Match3Engine.pdb
+C:\Projects\Match3\Match3Engine\Match3Engine\bin\Debug\UnityEngine.dll
+C:\Projects\Match3\Match3Engine\Match3Engine\bin\Debug\UnityEngine.xml
+C:\Projects\Match3\Match3Engine\Match3Engine\obj\Debug\Match3Engine.csproj.CoreCompileInputs.cache
+C:\Projects\Match3\Match3Engine\Match3Engine\obj\Debug\Match3Engine.csproj.CopyComplete
+C:\Projects\Match3\Match3Engine\Match3Engine\obj\Debug\Match3Engine.dll
+C:\Projects\Match3\Match3Engine\Match3Engine\obj\Debug\Match3Engine.pdb
+C:\Projects\Match3\Match3\Assets\Dlls\Match3Engine.dll
+C:\Projects\Match3\Match3\Assets\Dlls\Match3Engine.pdb
+C:\Projects\Match3\Match3\Assets\Dlls\Match3Engine.dll.config
+C:\Projects\Match3\Match3Engine\Match3Engine\obj\Debug\Match3Engine.csprojAssemblyReference.cache
